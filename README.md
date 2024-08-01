@@ -34,3 +34,5 @@ GreenGuard Techno-Bot is an AI-powered FAQ system that provides quick and accura
 - HuggingFace Transformers
 - FAISS
 - Google API Key
+
+Note: Use .env file to store your API Key.

@@ -1,6 +1,6 @@
 # RAG-LLM-PROJECT
 
-# Rule Whiz Techno-Bot
+# GreenGuard Techno-Bot
 
 Welcome to GreenGuard Techno-Bot, an intelligent chatbot designed to help visitors and staff navigate the rules and regulations of our public park. This project is part of the IBM SkillsBuild Internship for AICTE EduNet.
 

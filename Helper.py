@@ -11,7 +11,6 @@ from langchain.chains import RetrievalQA
 
 # Load environment variables from .env
 load_dotenv()
-api_key='AIzaSyBBUBI8fwPKVey1BGRn5UtIoRKkduFOirA'
 # Create Google Palm LLM model with the desired temperature
 temperature_value = 1  # Adjust the temperature as needed
 llm = GooglePalm(google_api_key=os.environ["GOOGLE_API_KEY"], temperature=temperature_value)

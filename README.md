@@ -8,7 +8,8 @@ Welcome to GreenGuard Techno-Bot, an intelligent chatbot designed to help visito
 
 GreenGuard Techno-Bot is an AI-powered FAQ system that provides quick and accurate answers to questions about park policies, rules, and regulations. Leveraging the power of Google Palm LLM, HuggingFace embeddings, and FAISS vector stores, GreenGuard Techno-Bot ensures that users have access to reliable information at their fingertips.
 
-![image](https://github.com/Neerajjv/RAG-LLM-PROJECT/assets/154986859/55db10d6-107a-437c-8be4-079cfc6e57fb)
+<img width="981" alt="image" src="https://github.com/user-attachments/assets/03da3db8-5cbb-45a3-98f6-7bc5f3ef4394">
+
 
 
 ## Features
